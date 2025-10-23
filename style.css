@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+h1{
+color:black;
+font-size:40px;
+}
+p{
+    font-size:25px;
+}
+header{
+    border-bottom:purple
+    margin:2px;
+    /* paddin10px
+    color:(green); */
+}
